@@ -1,0 +1,13 @@
+/Users/aleksandrostap/Projects/Saw_UseCase/Saw_UseCase/bin/Debug/netcoreapp3.1/Saw_UseCase.deps.json
+/Users/aleksandrostap/Projects/Saw_UseCase/Saw_UseCase/bin/Debug/netcoreapp3.1/Saw_UseCase.runtimeconfig.json
+/Users/aleksandrostap/Projects/Saw_UseCase/Saw_UseCase/bin/Debug/netcoreapp3.1/Saw_UseCase.runtimeconfig.dev.json
+/Users/aleksandrostap/Projects/Saw_UseCase/Saw_UseCase/bin/Debug/netcoreapp3.1/Saw_UseCase.dll
+/Users/aleksandrostap/Projects/Saw_UseCase/Saw_UseCase/bin/Debug/netcoreapp3.1/Saw_UseCase.pdb
+/Users/aleksandrostap/Projects/Saw_UseCase/Saw_UseCase/obj/Debug/netcoreapp3.1/Saw_UseCase.csproj.AssemblyReference.cache
+/Users/aleksandrostap/Projects/Saw_UseCase/Saw_UseCase/obj/Debug/netcoreapp3.1/Saw_UseCase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrostap/Projects/Saw_UseCase/Saw_UseCase/obj/Debug/netcoreapp3.1/Saw_UseCase.AssemblyInfoInputs.cache
+/Users/aleksandrostap/Projects/Saw_UseCase/Saw_UseCase/obj/Debug/netcoreapp3.1/Saw_UseCase.AssemblyInfo.cs
+/Users/aleksandrostap/Projects/Saw_UseCase/Saw_UseCase/obj/Debug/netcoreapp3.1/Saw_UseCase.csproj.CoreCompileInputs.cache
+/Users/aleksandrostap/Projects/Saw_UseCase/Saw_UseCase/obj/Debug/netcoreapp3.1/Saw_UseCase.dll
+/Users/aleksandrostap/Projects/Saw_UseCase/Saw_UseCase/obj/Debug/netcoreapp3.1/Saw_UseCase.pdb
+/Users/aleksandrostap/Projects/Saw_UseCase/Saw_UseCase/obj/Debug/netcoreapp3.1/Saw_UseCase.genruntimeconfig.cache
